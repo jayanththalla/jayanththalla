@@ -14,7 +14,7 @@
 <p align="left">  </p>
 
 - 📫 How to reach me **jayanththalla12@gmail.com**
-- 📫 How to reach me **thallajayanth12@gmail.com**
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
