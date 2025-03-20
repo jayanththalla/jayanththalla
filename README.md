@@ -1,136 +1,109 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=9F22F7&width=435&lines=Hello+World!;I'm+Jayanth+Thalla;Full-Stack+Developer;Freelancer" alt="Typing SVG" />
-  </a>
-</h1>
-
-<h3 align="center">🚀 Turning Ideas into Reality with Code | Freelance Developer 🚀</h3>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="100%" height="2" />
-
-<p align="center"> 
-  <b>Visitor Count</b><br>
-  <img src="https://profile-counter.glitch.me/jayanththalla/count.svg" />
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
-
----
-
-### 📫 **Let's Connect!**
-I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out!
-
-<p align="left">
-  <a href="https://twitter.com/jayanth__1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayanth__1" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/thalla-jayanth-28a04525a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thalla-jayanth-28a04525a" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/jay34" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jay34" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/22h51a6658" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="22h51a6658" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/22h51a6658" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="22h51a6658" height="30" width="40" />
-  </a>
-  <a href="mailto:jayanththalla12@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ **Languages and Tools**
-Here are the technologies I work with:
-
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-</p>
-
----
-
-### 📊 **GitHub Stats**
-Here's a snapshot of my coding journey:
-
 <div align="center">
-  <img width="600" src="https://github-profile-trophy.vercel.app/?username=jayanththalla&theme=dracula&column=5" /> 
+  <img src="https://github-readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=9F22F7&center=true&vCenter=true&width=500&lines=Hello+Everyone...;I'm+Jayanth+Thalla;Welcome+to+my+profile!" alt="Typing SVG" />
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-blueviolet?style=for-the-badge" alt="Full Stack Developer"/>
+    <img src="https://img.shields.io/badge/-Problem%20Solver-blue?style=for-the-badge" alt="Problem Solver"/>
+    <img src="https://img.shields.io/badge/-Code%20Enthusiast-purple?style=for-the-badge" alt="Code Enthusiast"/>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=jayanththalla&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  </p>
+
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
+
+## 💫 About Me
+
+- 🚀 Passionate about both **frontend and backend** development
+- 💻 Always exploring new technologies and frameworks
+- 🌱 Currently enhancing my skills in **full-stack development**
+- 💬 Ask me about **Web Development, DSA, and Competitive Programming**
+- 📫 Reach me at: **jayanththalla12@gmail.com**
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayanththalla&theme=synthwave-84&true&hide_border=true" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+## 🌐 Connect With Me
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanththalla&layout=compact&theme=highcontrast" alt="jayanththalla" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayanththalla&show_icons=true&locale=en&theme=highcontrast" alt="jayanththalla" />
+  <a href="https://twitter.com/jayanth__1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/thalla-jayanth-28a04525a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.codechef.com/users/jay34" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://codeforces.com/profile/22h51a6658" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.leetcode.com/22h51a6658" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanththalla&theme=radical" alt="jayanththalla" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
----
-
-### 🎯 **Freelance Services**
-As a freelancer, I offer:
-- **Frontend Development**: Building responsive and user-friendly interfaces.
-- **Backend Development**: Creating robust and scalable server-side solutions.
-- **Full-Stack Projects**: End-to-end development for web applications.
-- **Consulting**: Helping you choose the right tech stack for your project.
-
-Let's build something amazing together! 🚀
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jayanththalla&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jayanththalla&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanththalla&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanththalla&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jayanththalla&theme=rogue&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="150"/>
+  
+  <h3>💻 Happy Coding! 💻</h3>
 </div>
