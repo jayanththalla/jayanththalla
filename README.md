@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github-readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=9F22F7&center=true&vCenter=true&width=500&lines=Hello+Everyone...;I'm+Jayanth+Thalla;Welcome+to+my+profile!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=9F22F7&width=435&lines=Hello+World!;I'm+Jayanth+Thalla" alt="Typing SVG" />
+  </a>
 
   <p align="center">
     <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-blueviolet?style=for-the-badge" alt="Full Stack Developer"/>
