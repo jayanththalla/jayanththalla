@@ -1,56 +1,182 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=9F22F7&width=435&lines=Hello+Everyone......;I+am+Jayanth+Thalla" alt="Typing SVG" /></a>
-</h1>
-<h3 align="center">A passionate frontend and backend developer</h3>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+<!-- Header Section with Dynamic Text Effect -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jayanth+Thalla;Fullstack+Developer;Freelance+Professional;Problem+Solver" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jayanththalla/count.svg" />
-</p>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
+
+<!-- Profile Banner with Brief Description -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+</div>
+
+<!-- About Me Section -->
+## 🚀 About Me
+```javascript
+const jayanth = {
+  title: "Fullstack Developer & Freelancer",
+  location: "India",
+  availability: "Open for freelance projects",
+  skills: ["Frontend", "Backend", "Responsive Design", "API Development"],
+  technologies: {
+    frontend: ["React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "MongoDB", "MySQL"],
+    languages: ["JavaScript", "Python", "Java", "C++", "C"],
+    tools: ["Git", "GitHub", "VS Code"]
+  },
+  currentlyLearning: ["Advanced React Patterns", "System Design", "Cloud Architecture"]
+};
+```
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
-<p align="left">  </p>
+- 🔭 I'm currently working on **innovative fullstack projects for clients**
+- 🌱 I'm constantly learning **emerging technologies and best practices**
+- 💼 Available for freelance projects - **let's build something amazing together!**
+- 📫 Reach me at: **jayanththalla12@gmail.com**
+- 🌐 Portfolio: **[coming soon]**
+- 💬 Ask me about **React, Node.js, Express, and MongoDB**
 
-- 📫 How to reach me **jayanththalla12@gmail.com**
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
+<!-- Services Section -->
+## 🛠️ Services I Offer
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Frontend Development</h3>
+      <p align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%">
+      </p>
+      <p align="center">Building responsive, user-friendly interfaces with modern frameworks like React</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Backend Development</h3>
+      <p align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%">
+      </p>
+      <p align="center">Creating robust server-side applications with Node.js, Express, and various databases</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Full-Stack Solutions</h3>
+      <p align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%">
+      </p>
+      <p align="center">End-to-end development from concept to deployment</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Consultation & Code Review</h3>
+      <p align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100%">
+      </p>
+      <p align="center">Professional advice on architecture and best practices</p>
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">Connect with me:</h3>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
-<p align="left">
-<a href="https://twitter.com/jayanth__1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayanth__1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thalla-jayanth-28a04525a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thalla-jayanth-28a04525a" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jay34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jay34" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/22h51a6658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="22h51a6658" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/22h51a6658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="22h51a6658" height="30" width="40" /></a>
-</p>
+<!-- Tech Stack Section with Modern Layout -->
+## 💻 Tech Stack
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
-</div>
-
-## 💫 Github Stats
 <div align="center">
-    <img width="600" src="https://github-profile-trophy.vercel.app/?username=jayanththalla&theme=dracula&column=5" /> 
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">Frontend</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Backend</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Languages & Tools</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+          <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="50" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
+
+<!-- Connect with Me Section -->
+## 🌐 Connect with Me
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayanththalla&theme=synthwave-84&true&hide_border=true" />
+  <a href="https://linkedin.com/in/thalla-jayanth-28a04525a" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80">
+  </a>
+  <a href="https://twitter.com/jayanth__1" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80">
+  </a>
+  <a href="mailto:jayanththalla12@gmail.com">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="70">
+  </a>
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<div align="center">
+  <h3>Coding Profiles</h3>
+  <a href="https://www.leetcode.com/22h51a6658" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/22h51a6658" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/jay34" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
+  </a>
+</div>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanththalla&layout=compact&theme=highcontrast" alt=apu52 />
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jayanththalla&show_icons=true&locale=en&theme=highcontrast" alt="apu52" /></p>
+<!-- GitHub Stats with Modern Layout -->
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayanththalla&theme=radical" alt="apu52" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanththalla&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayanththalla&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanththalla&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jayanththalla&theme=tokyonight&column=7&no-frame=true" alt="Trophy" />
+</div>
+
+<!-- Animated Footer -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5e56c192/images/footer.svg" width="100%">
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jayanththalla&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
