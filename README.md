@@ -24,7 +24,7 @@
 - 💻 Always exploring new technologies and frameworks
 - 🌱 Currently enhancing my skills in **full-stack development**
 - 💬 Ask me about **Web Development, DSA, and Competitive Programming**
-- 📫 Reach me at: **jayanththalla12@gmail.com**
+- 📫 Reach me at: **thallajayanth12@gmail.com**
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
