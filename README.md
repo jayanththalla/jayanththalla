@@ -33,7 +33,7 @@
     <td>
       <ul>
         <li>🚀 <b>Crafting</b> elegant web solutions with a passion for user experience</li>
-        <li>🌱 <b>Currently mastering</b> advanced React patterns & system architecture</li>
+        <li>🌱 <b>Currently learning fastapi, Devops </li>
         <li>💡 <b>Problem solver</b> who enjoys algorithmic challenges</li>
         <li>🎯 <b>Goal:</b> Building technology that makes a difference</li>
         <li>📫 <b>Reach me:</b> thallajayanth12@gmail.com</li>
@@ -43,11 +43,6 @@
   </tr>
 </table>
 
-<!-- MY CODE LIFE VISUALIZATION -->
-<h2 align="center">⚡ <b>MY DEV JOURNEY</b> ⚡</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayanththalla&bg_color=0d1117&color=9e4c98&line=9F22F7&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph">
-</div>
 
 <!-- TECHNOLOGY GALAXY -->
 <h2 align="center">🌌 <b>TECHNOLOGY GALAXY</b> 🌌</h2>
