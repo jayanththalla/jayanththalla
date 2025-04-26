@@ -37,7 +37,7 @@
         <li>💡 <b>Problem solver</b> who enjoys algorithmic challenges</li>
         <li>🎯 <b>Goal:</b> Building technology that makes a difference</li>
         <li>📫 <b>Reach me:</b> thallajayanth12@gmail.com</li>
-        <li>⚡ <b>Fun fact:</b> I debug better at 2 AM with lo-fi beats 🎧</li>
+<!--         <li>⚡ <b>Fun fact:</b> I debug better at 2 AM with lo-fi beats 🎧</li> -->
       </ul>
     </td>
   </tr>
