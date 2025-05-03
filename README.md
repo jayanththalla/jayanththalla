@@ -74,7 +74,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jayanththalla&show_icons=true&count_private=true&hide_border=true&title_color=9F22F7&icon_color=9F22F7&text_color=c9d1d9&bg_color=0d1117" alt="Jayanth's GitHub Stats" width="49%" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanththalla&hide_border=true&stroke=9F22F7&background=0d1117&ring=9F22F7&fire=9F22F7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=9F22F7&sideLabels=9F22F7&dates=c9d1d9" alt="Streak Stats" width="49%" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=jayanththalla&hide_border=true&stroke=9F22F7&background=0d1117&ring=9F22F7&fire=9F22F7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=9F22F7&sideLabels=9F22F7&dates=c9d1d9" alt="Streak Stats" width="49%" height="200" />
 </div>
 
 <!-- LANGUAGE DISTRIBUTION -->
