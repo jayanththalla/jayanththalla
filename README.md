@@ -127,7 +127,7 @@
   <a href="https://github.com/jayanththalla">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/thalla-jayanth-28a04525a">
+  <a href="https://linkedin.com/in/thallajayanth">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/jayanth__1">
