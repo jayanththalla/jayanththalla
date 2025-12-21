@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Jayanth Thalla Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    // url: "http://ashutoshhathidara.com/",
   },
 };
 
@@ -194,6 +194,7 @@ const skills = {
           style: { color: "#61DAFB" },
         },
         {
+<<<<<<< HEAD
           skillName: "MySQL",
           fontAwesomeClassname: "simple-icons:mysql",
           style: { color: "#4479A1" },
@@ -213,6 +214,12 @@ const skills = {
           fontAwesomeClassname: "simple-icons:python",
           style: { color: "#3776AB" },
         },
+=======
+          skillName: "Bootstrap",
+          fontAwesomeClassname: "simple-icons:bootstrap",
+          style: { color: "#7952B3" },
+        }
+>>>>>>> 8bdcc116386dab23961754c7391183c743710121
       ],
     },
     {
@@ -260,48 +267,73 @@ const skills = {
           fontAwesomeClassname: "simple-icons:jsonwebtokens",
           style: { color: "#000000" },
         },
+        {
+          skillName: "FastAPI",
+          fontAwesomeClassname: "simple-icons:fastapi",
+          style: { color: "#009688" },
+        },
+        {
+          skillName: "Postman",
+          fontAwesomeClassname: "simple-icons:postman",
+          style: { color: "#FF6C37" },
+        },
+        {
+          skillName: "Render",
+          fontAwesomeClassname: "simple-icons:render",
+          style: { color: "#000000" }
+        },
+        {
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
+          style: { color: "#4169E1" }
+        }
       ],
     },
 
-    // {
-    //   title: "UI/UX Design",
-    //   fileName: "DesignImg",
-    //   skills: [
-    //     "⚡ Designing highly attractive user interface for mobile and web applications",
-    //     "⚡ Customizing logo designs and building logos from scratch",
-    //     "⚡ Creating the flow of application functionalities to optimize user experience",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "Adobe XD",
-    //       fontAwesomeClassname: "simple-icons:adobexd",
-    //       style: {
-    //         color: "#FF2BC2",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Figma",
-    //       fontAwesomeClassname: "simple-icons:figma",
-    //       style: {
-    //         color: "#F24E1E",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Adobe Illustrator",
-    //       fontAwesomeClassname: "simple-icons:adobeillustrator",
-    //       style: {
-    //         color: "#FF7C00",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Inkscape",
-    //       fontAwesomeClassname: "simple-icons:inkscape",
-    //       style: {
-    //         color: "#000000",
-    //       },
-    //     },
-    //   ],
-    // },
+    {
+      title: "UI/UX Design",
+      fileName: "DesignImg",
+      skills: [
+        "⚡ Designing highly attractive user interface for mobile and web applications",
+        "⚡ Customizing logo designs and building logos from scratch",
+        "⚡ Creating the flow of application functionalities to optimize user experience",
+      ],
+      softwareSkills: [
+        // {
+        //   skillName: "Adobe XD",
+        //   fontAwesomeClassname: "simple-icons:adobexd",
+        //   style: {
+        //     color: "#FF2BC2",
+        //   },
+        // },
+        {
+          skillName: "Figma",
+          fontAwesomeClassname: "simple-icons:figma",
+          style: {
+            color: "#F24E1E",
+          },
+        },
+        {
+          skillName: "Framer",
+          fontAwesomeClassname: "simple-icons:framer",
+          style: { color: "#0055FF" },
+        }
+        // {
+        //   skillName: "Adobe Illustrator",
+        //   fontAwesomeClassname: "simple-icons:adobeillustrator",
+        //   style: {
+        //     color: "#FF7C00",
+        //   },
+        // },
+        // {
+        //   skillName: "Inkscape",
+        //   fontAwesomeClassname: "simple-icons:inkscape",
+        //   style: {
+        //     color: "#000000",
+        //   },
+        // },
+      ],
+    },
   ],
 };
 
